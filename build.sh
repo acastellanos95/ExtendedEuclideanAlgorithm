@@ -1,0 +1,1 @@
+g++ -o ExtendedEuclideanAlgorithm main.cpp -lgmpxx -lgmp
